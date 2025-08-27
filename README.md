@@ -495,7 +495,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Danish Akhtar** - [@danish296](https://github.com/danish296)
 
-- 📧 Email: danish296@student.uet.edu.pk
+- 📧 Email: heydanish@cc.cc
 - 🔗 LinkedIn: [Danish Akhtar](https://linkedin.com/in/danishakhtar296)
 - 🐦 Twitter: [@danish296](https://twitter.com/forreal_danish)
 
