@@ -493,11 +493,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Danish Ahmed** - [@danish296](https://github.com/danish296)
+**Danish Akhtar** - [@danish296](https://github.com/danish296)
 
 - 📧 Email: danish296@student.uet.edu.pk
-- 🔗 LinkedIn: [Danish Ahmed](https://linkedin.com/in/danish-ahmed-296)
-- 🐦 Twitter: [@danish296](https://twitter.com/danish296)
+- 🔗 LinkedIn: [Danish Akhtar](https://linkedin.com/in/danishakhtar296)
+- 🐦 Twitter: [@danish296](https://twitter.com/forreal_danish)
 
 **Project Link**: [https://github.com/danish296/project-aether](https://github.com/danish296/project-aether)
 
@@ -507,6 +507,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ by [Danish Ahmed](https://github.com/danish296)
+Made with ❤️ by [Danish Akhtar](https://github.com/danish296)
 
 </div>
